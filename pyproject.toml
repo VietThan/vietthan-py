@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "vietthan"
+version = "0.1.0"
+description = ""
+authors = ["Viet Than <thanhoangviet@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vietthan", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
