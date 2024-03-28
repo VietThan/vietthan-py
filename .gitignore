@@ -1,3 +1,6 @@
+# python cache files
+__pycache__/
+
 # build folder
 dist/
 
@@ -7,3 +10,6 @@ venv/
 
 # local poetry toml
 poetry.toml
+
+# .env file that contains GITHUB_TOKEN
+.env
