@@ -1,3 +1,6 @@
+# build folder
+dist/
+
 # python virtual environments
 venv/
 .venv/
