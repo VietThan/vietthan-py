@@ -1,3 +1,9 @@
+# pytest cache (double ignore)
+.pytest_cache/
+
+# tox cache
+.tox/
+
 # python cache files
 __pycache__/
 
